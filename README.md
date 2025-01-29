@@ -2,6 +2,8 @@
 
 Learn to upgrade Azure Terraform Provider from v3 to v4 with guidance on setup, version updates, resource migration, and state management, including practical examples.
 
+**View [this commit](https://github.com/ChaiyoKung/learn-migrate-terraform-provider/commit/cf2e4cbe5096ed37b104d6933b7a2cd6943386d5) for full migrated code change**
+
 ## Getting Started
 
 Login to Azure.
