@@ -1,5 +1,7 @@
 # Learn Migrate Terraform Provider
 
+Learn to upgrade Azure Terraform Provider from v3 to v4 with guidance on setup, version updates, resource migration, and state management, including practical examples.
+
 ## Getting Started
 
 Login to Azure.
