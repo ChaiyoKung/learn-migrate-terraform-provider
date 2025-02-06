@@ -85,7 +85,7 @@ Step 5: Change resources type in Terraform state
 
 ```bash
 terraform state rm azurerm_app_service_plan.example
-terraform state import azurerm_service_plan.example /subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/rg-example/providers/Microsoft.Web/serverFarms/asp-example
+terraform import azurerm_service_plan.example /subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/rg-example/providers/Microsoft.Web/serverFarms/asp-example
 ```
 
 Step 6: Run `terraform plan` with expected no changes if possible and no deprecated warnings
